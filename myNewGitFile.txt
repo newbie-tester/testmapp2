@@ -1,1 +1,2 @@
 Detta är min myNewGitFile!
+Och nu har du släppt in mig här!
